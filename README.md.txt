@@ -39,7 +39,13 @@ images/      -> Dashboard screenshots
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesdashboard-overview.png.png)
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrevenue-analysis.png.png)
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagescancellation-analysis.png.png)
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrating-analysis.png.png)
 
 ---
 
