@@ -62,4 +62,4 @@ images/      -> Dashboard screenshots
 ## Author
 
 Ankit Rauthan
-Aspiring Data Analyst
+Data Analyst
