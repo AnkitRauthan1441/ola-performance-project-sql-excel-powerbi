@@ -12,23 +12,6 @@ This project transforms ride booking data into actionable business insights usin
 
 ---
 
-```markdown
-# 🚖 Ola Ride Analytics Dashboard
-
-## 📑 Table of Contents
-
-- 🚀 [Overview](#overview)
-- 🎯 [Problem Statement](#problem-statement)
-- 📊 [Dataset](#dataset)
-- 🛠️ [Tools and Technologies](#tools-and-technologies)
-- 🔍 [Methods](#methods)
-- 💡 [Key Insights](#key-insights)
-- 📈 [Dashboard / Output](#dashboard--output)
-- ⚙️ [How to Run This Project?](#how-to-run-this-project)
-- ✅ [Results & Conclusion](#results--conclusion)
-- 🔮 [Future Work](#future-work)
-- 👨‍💻 [Author & Contact](#author--contact)
-```
 
 
 ## Problem Statement
