@@ -1,37 +1,51 @@
-# Ola Ride Analytics Dashboard
+# 🚖 Ola Ride Analytics Dashboard
+
+## Table of Contents
+
+* [Brief One-Line Summary](#brief-one-line-summary)
+* [Overview](#overview)
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Tools and Technologies](#tools-and-technologies)
+* [Methods](#methods)
+* [Key Insights](#key-insights)
+* [Dashboard Output](#dashboard-output)
+* [How to Run This Project](#how-to-run-this-project)
+* [Results and Conclusion](#results-and-conclusion)
+* [Future Work](#future-work)
+* [Author and Contact](#author-and-contact)
+
+---
 
 ## Brief One-Line Summary
 
-Interactive Power BI dashboard built to analyze ride bookings, revenue, cancellations, customer experience, and operational performance across Ola's ride-hailing services.
+Interactive Power BI dashboard built to analyze ride bookings, revenue, cancellations, customer experience, and operational performance using 70K+ Ola ride records.
 
 ---
 
 ## Overview
 
-This project transforms ride booking data into actionable business insights using SQL, Excel, and Power BI. The dashboard provides a comprehensive view of booking trends, revenue performance, cancellation behavior, customer satisfaction, and ride operations to support data-driven decision-making.
+This project transforms raw ride booking data into actionable business insights using SQL, Excel, and Power BI. The dashboard provides a centralized view of booking trends, revenue performance, cancellation behavior, customer satisfaction, and ride operations to support data-driven decision-making.
 
 ---
 
-
-
 ## Problem Statement
 
-Ride-hailing platforms generate thousands of transactions daily, making it challenging to monitor operational efficiency and customer experience in real time.
+Ride-hailing platforms process thousands of bookings daily, making it difficult to monitor operational efficiency and customer experience in real time.
 
-The objective of this project was to build a dashboard that helps stakeholders:
+This project aims to:
 
-* Track booking performance
-* Monitor revenue trends
-* Analyze ride cancellations
-* Evaluate customer and driver ratings
-* Identify operational bottlenecks
-* Improve service quality and business performance
+* Track booking performance and revenue trends
+* Analyze ride cancellations and their causes
+* Monitor customer and driver satisfaction
+* Identify high-performing vehicle categories
+* Support operational and business decisions through analytics
 
 ---
 
 ## Dataset
 
-The dataset contains ride booking records including:
+The dataset contains 70K+ ride records, including:
 
 * Booking ID
 * Booking Status
@@ -48,12 +62,12 @@ The dataset contains ride booking records including:
 
 ## Tools and Technologies
 
-| Tool     | Purpose                    |
-| -------- | -------------------------- |
-| SQL      | Data Analysis & Querying   |
-| Excel    | Data Cleaning & Validation |
-| Power BI | Dashboard Development      |
-| DAX      | KPI Calculations & Metrics |
+| Tool     | Purpose                               |
+| -------- | ------------------------------------- |
+| SQL      | Data Analysis and Querying            |
+| Excel    | Data Cleaning and Validation          |
+| Power BI | Dashboard Development                 |
+| DAX      | KPI Calculations and Business Metrics |
 
 ---
 
@@ -63,7 +77,7 @@ The dataset contains ride booking records including:
 
 * Cleaned and validated booking records
 * Standardized ride status categories
-* Prepared data for reporting and visualization
+* Removed inconsistencies and prepared data for reporting
 
 ### Data Analysis
 
@@ -76,46 +90,24 @@ The dataset contains ride booking records including:
 ### Dashboard Development
 
 * KPI Monitoring
-* Interactive Filters
+* Interactive Filtering
 * Drill-Through Analysis
 * Dynamic Reporting
 * Business Performance Tracking
 
 ---
 
-## Dashboard Preview
-
-
-
- ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesdashboard-overview.png.png)
-
-
-
- ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrevenue-analysis.png.png)
-
-
-
- ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagescancellation-analysis.png.png)
-
-
-
- ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrating-analysis.png.png)
-
-
-
----
-
 ## Key Insights
 
-* Identified high-demand vehicle categories contributing most bookings.
-* Analyzed cancellation patterns to uncover service and operational challenges.
-* Evaluated payment method preferences and their contribution to revenue.
-* Highlighted customer and driver rating trends affecting service quality.
-* Revealed booking and revenue distribution across ride categories.
+* Identified vehicle categories generating the highest booking volume.
+* Uncovered cancellation patterns affecting ride completion rates.
+* Analyzed customer and driver ratings to evaluate service quality.
+* Measured revenue contribution across ride categories and payment methods.
+* Highlighted operational trends influencing customer experience and business performance.
 
 ---
 
-## Dashboard / Output
+## Dashboard Output
 
 ### Business KPIs
 
@@ -134,23 +126,33 @@ The dataset contains ride booking records including:
 * Vehicle Category Analysis
 * Customer Experience Metrics
 
-(Add dashboard screenshots here)
+### Dashboard Preview
+
+*Add dashboard screenshots here*
+
+```text id="bwh3h8"
+images/overview-dashboard.png
+images/revenue-analysis.png
+images/cancellation-analysis.png
+images/customer-insights.png
+```
 
 ---
 
-## How to Run This Project?
+## How to Run This Project
 
-1. Download the repository.
+1. Clone or download this repository.
 2. Open the SQL file to review analytical queries.
 3. Explore the dataset in Excel.
-4. Open the `.pbix` file in Power BI Desktop.
-5. Refresh data if required and interact with dashboard filters.
+4. Open the `.pbix` file using Power BI Desktop.
+5. Refresh the data if required.
+6. Interact with filters and visuals to explore insights.
 
 ---
 
-## Results & Conclusion
+## Results and Conclusion
 
-The dashboard provides a centralized view of ride-hailing operations, enabling stakeholders to monitor business performance, understand customer behavior, reduce cancellation impact, and identify opportunities to improve service efficiency and revenue generation.
+The dashboard provides a consolidated view of ride-hailing operations, enabling stakeholders to monitor performance, understand customer behavior, identify operational bottlenecks, and make informed business decisions. The analysis highlights opportunities to improve service quality, reduce cancellations, and enhance overall operational efficiency.
 
 ---
 
@@ -159,18 +161,20 @@ The dashboard provides a centralized view of ride-hailing operations, enabling s
 * Ride Demand Forecasting
 * Customer Segmentation Analysis
 * Driver Performance Scoring
-* Peak Hour Demand Analysis
+* Peak-Hour Demand Analysis
 * Real-Time Dashboard Integration
 * Predictive Cancellation Modeling
 
 ---
 
-## Author & Contact
+## Author and Contact
 
-**Ankit Rauthan**
+**Anku**
 
- Data Analyst
+Aspiring Data Analyst
 
-**LinkedIn:** [(https://www.linkedin.com/in/ankit-rauthan-b81b9139a )]
+**Skills:** SQL • Power BI • Excel • Python
 
-**GitHub:** [https://github.com/AnkitRauthan1441]
+**LinkedIn:** Add Your LinkedIn Profile
+
+**GitHub:** Add Your GitHub Profile
