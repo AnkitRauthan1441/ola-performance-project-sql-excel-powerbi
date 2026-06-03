@@ -128,14 +128,24 @@ The dataset contains 70K+ ride records, including:
 
 ### Dashboard Preview
 
-*Add dashboard screenshots here*
 
-```text id="bwh3h8"
-images/overview-dashboard.png
-images/revenue-analysis.png
-images/cancellation-analysis.png
-images/customer-insights.png
-```
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesdashboard-overview.png.png)
+
+
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrevenue-analysis.png.png)
+
+
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagescancellation-analysis.png.png)
+
+
+
+ ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesrating-analysis.png.png)
+
+
+
 
 ---
 
@@ -169,12 +179,10 @@ The dashboard provides a consolidated view of ride-hailing operations, enabling 
 
 ## Author and Contact
 
-**Anku**
+**Ankit Rauthan**
 
-Aspiring Data Analyst
+Data Analyst
 
-**Skills:** SQL • Power BI • Excel • Python
+**LinkedIn:** [(https://www.linkedin.com/in/ankit-rauthan-b81b9139a )]
 
-**LinkedIn:** Add Your LinkedIn Profile
-
-**GitHub:** Add Your GitHub Profile
+**GitHub:** [https://github.com/AnkitRauthan1441]
