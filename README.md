@@ -1,5 +1,5 @@
 # 🚖 OLA Customer Experience & Operational Performance Analysis
-
+![image alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/8fb33f14c898b1d7099c3cc2c113ebc19c4743cc/OLA%20Cancellation%20Dashboard.png)
 ## Table of Contents
 
 * [Brief One-Line Summary](#brief-one-line-summary)
